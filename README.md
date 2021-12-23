@@ -6,7 +6,7 @@ This version upgrade includes admin console updates and IDAC improvements
 
 ##### **New LOLZ**  
 
-   [x] Loren ipusm is simpy dummy test
+   [x] [x]Loren ipusm is simpy dummy test
    [x] Lorem ipusm has been the industrys standard dummy
    [x] It has survived not only five centuries 
 
